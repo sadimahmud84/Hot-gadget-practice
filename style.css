@@ -1,0 +1,8 @@
+body{font-family: 'Poppins', sans-serif;}
+.container{margin-bottom:50px}
+.button{background-color:black;color:white;
+        padding:5px 10px;border-radius:5px;margin-top:20px}
+    .bd-highlight{background-color:white}
+    .card {border:none;box-shadow:5px 5px 10px lightgray}
+    .card-footer{border:none;background-color:white}
+    .card-body h5{text-align:center}
