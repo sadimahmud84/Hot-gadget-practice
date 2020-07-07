@@ -6,3 +6,9 @@ body{font-family: 'Poppins', sans-serif;}
     .card {border:none;box-shadow:5px 5px 10px lightgray}
     .card-footer{border:none;background-color:white}
     .card-body h5{text-align:center}
+    .container h2{text-align:center}
+   
+.cat-coll{border:none;margin-right:5px;margin-top:5px;margin-bottom:5px;box-shadow:5px 5px 10px lightgray;padding:20px;border-top-left-radius: 20px;border-bottom-right-radius: 20px;;}
+.cat-coll1{border:none;margin-right:5px;margin-top:5px;margin-bottom:5px;box-shadow:5px 5px 10px lightgray;padding:20px;border-bottom-left-radius: 20px;border-top-right-radius: 20px;;}
+hr{background-color:orange;padding:5px;width:130px;border:none;border-radius:10px;}
+footer{color:rgb(158, 158, 80);text-align:center}
